@@ -149,6 +149,7 @@ This project is for educational purposes as part of an internship learning path,
 👥 Authors
 
 * Contributors to the project
+   Andrew Greenwood - Supervisor (andrew@ss4ls.org)
    Mujtabaa Suliman - tech-ss4ls (https://github.com/mujsul/mujsul)
    (Future contributors to the project - add name below)
 
